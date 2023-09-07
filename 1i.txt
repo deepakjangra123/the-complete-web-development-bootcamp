@@ -27,4 +27,10 @@ favicon.cc   //  to create a new favicon
 
 marcusvogl.com/web1/interactive_box_model
 
+https://www.flaticon.com/                         // for images
 
+giphy for stickers //  orororo gif
+
+100% = 16px
+
+2em = double the size of letter m
