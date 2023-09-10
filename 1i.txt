@@ -34,3 +34,26 @@ giphy for stickers //  orororo gif
 100% = 16px
 
 2em = double the size of letter m
+
+
+https://cssbuttoncreator.com/
+
+https://www.frontendmentor.io/
+
+www.codeply.com
+
+
+bootstrap .com -> dist/ css/ bootstrap.css 
+
+awwwards.com ui-patterns.com
+
+dribbble.com
+
+sneakpeekit.com
+
+balsamiq.cloud
+
+https://github.com/londonappbrewery/TinDog-Start    
+
+
+FONTAWESOME .Com
