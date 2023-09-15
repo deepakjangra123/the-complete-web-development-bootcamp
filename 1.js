@@ -49,3 +49,14 @@ document.querySelectorAll("h1").style.visibility="hidden";  // to hide using js
 
  
 
+// anonmyous function
+
+document.querySelector("buttton").addEventListener("click",function (){
+    alert("i got clicked");
+})
+
+
+
+console-->
+
+debugger;then write ur code to check its working
