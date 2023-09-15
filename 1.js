@@ -47,6 +47,9 @@ document.querySelectorAll("h1").style.visibility="hidden";  // to hide using js
  document.querySelector("h1").setAttribute(id, "sdfsfs");
 
 
+
+ callbacks????
+
  
 
 // anonmyous function
@@ -60,3 +63,40 @@ document.querySelector("buttton").addEventListener("click",function (){
 console-->
 
 debugger;then write ur code to check its working
+
+
+
+
+
+jquery .on method 
+\
+
+befor ()
+aftere 
+append 
+
+prepend
+
+
+
+.hide()
+
+.remove()
+
+
+fadeout()
+fadein()
+fadetoggle()
+slideup()
+slidein()
+slidetoggle()
+.animate(  )   //custom js
+
+
+
+$("h1").slideup().slidedown().animate(); // muliple props
+
+
+
+
+

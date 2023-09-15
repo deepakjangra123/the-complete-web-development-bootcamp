@@ -66,3 +66,9 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 
 html tree extention
+
+search the bootstrap link in brower it will show like a make same jquery does
+minifier.org // convert js code tro minified code i.e space and new lines are removed 
+
+
+
