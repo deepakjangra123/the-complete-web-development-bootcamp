@@ -78,4 +78,21 @@ npmjs.com
 stateofjs.com
 
 
-expressjs.com
+expressjs.com// then //  goto getting started navbar 
+npm install express
+
+
+nodemon.io  // utility to use  
+
+lear to use in cli and in express
+
+
+to test an api 
+
+free tool postman.com convert all data to json format
+
+json viewer extention  for viewing the in json format
+
+
+twillo.cok
+

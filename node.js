@@ -26,3 +26,25 @@
 
 //then press enter afeter namaing it
 
+//here expreess  begins
+
+
+app.get("here is navigation \ \about \contact", function (req,res){
+    res.send("bfjsdgghuuhuihysdf";)
+})
+
+
+
+
+
+
+console.log(__dirname);
+
+//httpt erreor vodes
+
+
+
+npm install body-parser
+
+
+t
