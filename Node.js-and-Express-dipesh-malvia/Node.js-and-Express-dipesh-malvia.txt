@@ -1,0 +1,53 @@
+// node -v in terminal/vs terminAL for current vertion of node in your pc
+// npm -v in terminal for current vertion of npm in your pc
+
+
+//type npm init to initialize your folder
+// give package name hit eneter
+//now ur json file is created 
+
+// change the script in json : start
+
+// to run index.js //type
+// node index.js in terminAL  ororo npm start
+
+
+// so after a change in js u have to run above commad 
+
+//oro u can download the package nodemon
+// npm i -g nodemon 
+//ororo 
+//npm i --save-dev nodemon
+now change the script : node index.js --> nodemon index.js
+
+// to run index.js //type
+// npm start
+
+to exit form the nodemon :
+type // ctrl +c
+
+to exit manually //
+add //process.exit(0)--> when u change it to 1 process.exit(1)
+app will crash
+//process.exit(1) ororooror 
+//process.exitCode=1;
+
+
+#####11111
+
+###222
+
+
+to use node command lien i.e repl 
+type node in terminal // to getout type ctrl +c
+
+//use global.tab to see all function of repl
+
+// to goto  repl using a js file 
+#33333333333
+
+
+###44444444
+
+
+
